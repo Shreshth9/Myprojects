@@ -1,2 +1,2 @@
 # Myprojects
-My website extension to my resume,
+My personal project website, extension to my resume
